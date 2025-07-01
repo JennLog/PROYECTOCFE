@@ -7,3 +7,4 @@ services:
     envVars:
       - key: GEMINI_API_KEY
         value: AIzaSyCh9dXMJXAqDKA2qzjnYKomZ8N8hD9B2dA
+        
